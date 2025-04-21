@@ -7,15 +7,16 @@
 	"name": "solitary-dream-41a1",
 	"main": "src/index.ts",
 	"compatibility_date": "2025-04-16",
-	"compatibility_flags": [
-		"nodejs_compat"
-	],
+	"compatibility_flags": ["nodejs_compat"],
 	"assets": {
 		"binding": "ASSETS",
 		"directory": "./public"
 	},
 	"observability": {
 		"enabled": true
+	},
+	"ai": {
+		"binding": "AI"
 	}
 	/**
 	 * Smart Placement
